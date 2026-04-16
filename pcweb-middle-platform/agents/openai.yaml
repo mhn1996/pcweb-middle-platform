@@ -1,0 +1,3 @@
+display_name: PC Web 中台
+short_description: 基于模板和白皮书编写企业级 React/Vite/AntD PC Web 模块。
+default_prompt: 使用 PC Web 中台技能来实现、评审或初始化代码，同时保持模板架构、AntD First UI、类型化 services、路由配置和项目 token 规则。
